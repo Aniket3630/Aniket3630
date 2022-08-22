@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aniket Saini</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">future full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket3630&label=Profile%20views&color=0e75b6&style=flat" alt="aniket3630" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniket3630" alt="aniket3630" /></a> </p>
 
-- 🔭 I’m currently working on [Vanilla JS todo list](http://127.0.0.1:5500/vanilla-js-todo/index.html)
+- 🔭 I’m currently working on [JS](http://127.0.0.1:5500/vanilla-js-todo/index.html)
 
 - 🌱 I’m currently learning **JS**
 
