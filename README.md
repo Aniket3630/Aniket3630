@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Vanilla JS todo list](http://127.0.0.1:5500/vanilla-js-todo/index.html)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **JS**
 
 - 👯 I’m looking to collaborate on **Web applications**
 
-- 💬 Ask me about **HTML,Django**
+- 💬 Ask me about **HTML,CSS**
 
 - 📫 How to reach me **aniketsaini3390@gmail.com**
 
